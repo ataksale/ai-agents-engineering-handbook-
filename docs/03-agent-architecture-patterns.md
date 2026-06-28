@@ -62,6 +62,7 @@ E --> F[Enterprise Agent Platform]
 
 Most agent architectures are built using a common set of foundational components.
 
+```mermaid
 flowchart TD
 
 User
@@ -249,7 +250,7 @@ Memory transforms stateless LLMs into context-aware systems.
 
 ## Architecture Diagram
 
-```mermaid
+mermaid
 flowchart TD
 
 User
