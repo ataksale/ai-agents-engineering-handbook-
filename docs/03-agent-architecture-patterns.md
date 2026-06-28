@@ -62,31 +62,23 @@ E --> F[Enterprise Agent Platform]
 
 Most agent architectures are built using a common set of foundational components.
 
-```mermaid id="jej65d"
+```mermaid
 flowchart TD
 
-User
+    User --> Agent
 
-User --> Agent
+    Agent --> Planner
+    Agent --> Memory
+    Agent --> LLM
+    Agent --> Tool_Layer
 
-Agent --> Planner
+    Tool_Layer --> APIs
+    Tool_Layer --> Databases
+    Tool_Layer --> Enterprise_Systems
 
-Agent --> Memory
-
-Agent --> LLM
-
-Agent --> Tool Layer
-
-Tool Layer --> APIs
-
-Tool Layer --> Databases
-
-Tool Layer --> Enterprise Systems
-
-Agent --> Output
+    Agent --> Output
 ```
 
----
 
 # Architecture Pattern 1: Single Agent Architecture
 
