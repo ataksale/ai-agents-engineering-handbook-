@@ -250,7 +250,7 @@ Memory transforms stateless LLMs into context-aware systems.
 
 ## Architecture Diagram
 
-mermaid
+```mermaid
 flowchart TD
 
 User
