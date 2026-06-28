@@ -62,7 +62,6 @@ E --> F[Enterprise Agent Platform]
 
 Most agent architectures are built using a common set of foundational components.
 
-```mermaid
 flowchart TD
 
 User
