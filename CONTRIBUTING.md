@@ -8,7 +8,7 @@ Whether you are an AI Engineer, Researcher, Architect, Developer, Product Manage
 
 ---
 
-# Our Mission
+# My Mission
 
 The goal of this repository is to:
 
