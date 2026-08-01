@@ -1,6 +1,5 @@
 # Contributing to AI Agents Engineering Handbook
 
-First of all, thank you for considering contributing to the **AI Agents Engineering Handbook**.
 
 This project aims to become a comprehensive, community-driven knowledge base for AI Agent design, architecture, implementation, evaluation, security, and governance.
 
