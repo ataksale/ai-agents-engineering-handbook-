@@ -16,22 +16,22 @@ Our goal is to create a practical and vendor-neutral reference that helps engine
 timeline
     title AI Agents Engineering Handbook Roadmap
 
-    2026 Q1 : Foundation Release
+    2026 Q2 : Foundation Release
             : Agent Fundamentals
             : Architecture Patterns
             : Memory Systems
 
-    2026 Q2 : Agent Engineering
+    2026 Q3 : Agent Engineering
             : Tool Usage
             : Multi-Agent Systems
             : Evaluation Frameworks
 
-    2026 Q3 : Enterprise Adoption
+    2026 Q4 : Enterprise Adoption
             : Security & Governance
             : Production Deployments
             : Enterprise Architectures
 
-    2026 Q4 : Advanced Agent Systems
+    2027 Q1 : Advanced Agent Systems
             : Autonomous Workflows
             : Agent Operating Models
             : AI Workforce Concepts
